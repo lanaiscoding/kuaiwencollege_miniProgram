@@ -1,5 +1,5 @@
-## 原生+vant+外部服务器
-## 效果
+## 原生+vant-ui+外部服务器
+## 效果（gif）
 ### 首页-下滑
 ![首页-下滑](https://github.com/lanaiscoding/kuaiwencollege_miniProgram/blob/main/demo_gifs/%E9%A6%96%E9%A1%B5-%E4%B8%8B%E6%BB%91.gif)
 ### 首页-搜索
